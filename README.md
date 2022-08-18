@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @deb
+- 👋 Hi, I’m Deb
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on freelanace projects
 - 📫 How to reach me deboradagne@gmail.com
