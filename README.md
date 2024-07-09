@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Deb
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on freelanace projects
+- 🌱 I’m currently exploring ML
+- 💞️ I’m looking to collaborate on cool projects
 - 📫 How to reach me deboradagne@gmail.com
 
 <!---
