@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Deb
-- 🌱 I’m currently exploring ML
+- 🌱 I’m currently exploring AI, AGI
 - 💞️ I’m looking to collaborate on cool projects
 - 📫 How to reach me deboradagne@gmail.com
 
